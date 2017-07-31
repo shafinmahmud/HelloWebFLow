@@ -1,0 +1,9 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<div id="sidebar-menu" class="col-md-3">
+    <ul class="main-menu nav nav-stacked affix-top">
+        <li><a href="<c:url value="/item" />"><spring:message code="label.availableItem"/></a></li>
+        <li><a href="<c:url value="/item/insert" />"><spring:message code="label.addNewItem"/></a></li>
+        <li><a href="<c:url value="/meal/insert" />"><spring:message code="label.addNewPlan"/></a></li>
+        <li><a href="<c:url value="/changepassword" />"><spring:message code="label.changePassword"/></a></li>
+    </ul>
+</div>

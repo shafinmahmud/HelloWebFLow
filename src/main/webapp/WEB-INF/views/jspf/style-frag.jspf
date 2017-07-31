@@ -1,0 +1,13 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<style type="text/css">
+    <%@include file="/lib/bootstrap/css/bootstrap.min.css" %>
+</style>
+<style type="text/css">
+    <%@include file="/lib/css/sidenav.css" %>
+</style>
+<style type="text/css">
+    <%@include file="/lib/css/table.css" %>
+</style>
+<style type="text/css">
+    <%@include file="/lib/css/style.css" %>
+</style>
